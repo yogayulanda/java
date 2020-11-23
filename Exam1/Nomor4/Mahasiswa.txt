@@ -1,0 +1,6 @@
+ID : 1
+Nama : 1
+Nilai UTS : 1
+Nilai UAS : 1
+Nilai Tugas : 1
+Nilai Akhir : 1.0
