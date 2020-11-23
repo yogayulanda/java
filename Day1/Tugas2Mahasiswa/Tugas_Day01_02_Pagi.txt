@@ -1,0 +1,20 @@
+Buat Object Mahasiswa 
+
+dengan state :
+- Nama
+- Jenis Kelamin
+- Umur 
+
+behaviour
+- SetNama
+- GetNama
+- SetJK
+- GetJK
+- SetUmur
+- GetUmur
+- Print Mahasiswa
+
+Nama : 
+Jenis Kelamin : 
+Umur :
+

@@ -1,0 +1,10 @@
+Bikin program Chatting hingga user menulis EXIT
+
+Program Client dan Server dijalankan menggunakan config.properties (IP dan Port) melalui Java Command Line
+
+config.properties
+-----------------
+IP=
+PORT=
+
+java serverClass config.properties

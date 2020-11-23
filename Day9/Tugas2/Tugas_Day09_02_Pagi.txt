@@ -1,0 +1,67 @@
+Buat file.txt
+
+John,10,9,8
+Peter,7,8,10
+Steve,6,9,8
+
+=======================================================
+
+Buat Program Socket Server
+
+java programSocketServer 
+	-> di load di string dengan format JSON
+
+config.properties file.txt (Hardcode)
+
+=======================================================
+
+Buat Program Client
+
+java programClient  (FTP dan Socket)
+	
+config.properties (hardcode)
+	
+MENU
+1. Connect Socket
+	Request Data	
+	-> stream dari Server (dimana datanya adalah data dari file.txt-format JSON)
+2. Create FileProses.txt - Decode JSON then Write to File
+	-> Formatnya
+		Nama : John
+		Nilai Fisika : 10
+		Nilai Kimia : 9
+		Nilai Biologi : 8
+	
+		Nama : Peter
+		Nilai Fisika : X
+		Nilai Kimia : X
+		Nilai Biologi : X
+		...
+3. Tampilkan dilayar, Connect FTP - Kirim FTP (Multi Threading)
+	-> sama formatnya sama no. 2
+	-> kirim ftp file dengan bentuk JSON File
+4. Close All Connection
+99. EXIT
+
+
+Server <-> Client -> FTP Server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+1. Membuat objek Siswa yang memiliki:
+	a. nama
+	b. nilai
+	c. gender
+	d. tanggal lahir
+2. Membuat Siswa dapat memiliki behavior:
+	a. memiliki umur dari perhitungan tahun lahir 
+		2-8-1997 -> 23
+	b. memiliki nilai huruf A/B/C/D
+		Nilai 80 = A
+	c. memiliki kelas berdasarkan umur
+		18 -> Kuliah Tingkat 1
+		23 -> Sudah Lulus, Sedang Bekerja
+	d. memiliki format tanggal lahir berupa string 
+		2 Agustus 1997
+	e. bisa print histori umurnya pertahun sejak lahir 
+		1997 -> 1 Tahun
+		1998 -> 2 Tahun
+		.....
+		2020 -> 23 Tahun

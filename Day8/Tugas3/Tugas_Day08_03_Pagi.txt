@@ -1,0 +1,50 @@
+Buat file.txt
+
+John,10,9,8
+Peter,7,8,10
+Steve,6,9,8
+
+=======================================================
+
+Buat Program Socket Server
+
+java programSocketServer config.properties file.txt (jalanin di command line/Intellij kalo ngerti)
+
+=======================================================
+
+Buat Program Client
+
+java programClient 
+
+hardcode config.properties (FTP dan Socket)
+	
+	
+MENU
+1. Connect Socket
+	Request Data	
+	-> stream dari Server (dimana datanya adalah data dari file.txt)
+2. Create FileProses.txt
+	-> Formatnya
+		Nama : John
+		Nilai Fisika : 10
+		Nilai Kimia : 9
+		Nilai Biologi : 8
+	
+		Nama : Peter
+		Nilai Fisika : X
+		Nilai Kimia : X
+		Nilai Biologi : X
+		...
+3. Tampilkan dilayar, Tulis ke File, Connect FTP - Kirim FTP (Multi Threading)
+	-> sama formatnya sama no. 2
+	-> tulis ke filenya FileRata2.txt
+		Nama,NilaiRata2
+		Steve,8
+	-> kirim ftp file no. 2
+4. Download dari FTP Server (/download/avegare.txt)
+	-> Input Path beserta file yang ingin download
+5. Close All Connection
+99. EXIT
+
+
+Server <--> Client --> FTP Server

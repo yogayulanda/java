@@ -1,0 +1,8 @@
+Buat aplikasi java sebagai berikut
+
+Jalankan misalnya
+
+java namaProgram namaFile [Edo]
+
+1. Tulis String -> Menulis ke File 
+2. Baca String -> Membaca dari File

@@ -1,0 +1,46 @@
+Bikin 2, Program Client dan Program Server
+
+
+Server
+======
+config.properties
+IP=
+PORT=
+
+java programServer config.properties
+
+Login - Regex
+
+Tunngu Client-nya kirim lalu Receive then Print
+
+<Sejumlah Data>
+Nama :
+Nilai Fisika :
+Nilai Biologi :
+Nilai Kimia :
+
+Send to Client -> Data Done Processing
+
+Client
+======
+config.properties
+IP=
+PORT=
+
+java programClient config.properties
+
+data.txt
+--------
+John,10,8,9
+Peter,7,6,10
+Lisa,8,7,7
+
+Login - Regex
+
+Menu
+----
+1. Connect Socket
+2. Send Data to Server
+	-> input nama file nya
+3. Close Socket
+4. Exit

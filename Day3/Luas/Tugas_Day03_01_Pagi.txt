@@ -1,0 +1,18 @@
+Buat program java command line yang apabila dijalankan, 1,2,3 memakai method overloading
+
+1. Menghitung luas persegi
+
+	java CommandLine 1 5
+	
+2. Menghitung luas lingkaran
+
+	java CommandLine 2 12
+	
+3. Menghitung luas segitiga
+
+	java CommandLine 3 4 5
+	
+4. Menghitung umur
+
+	java CommandLine 4 2 12 1997
+

@@ -1,0 +1,16 @@
+Buat 2 object mobil dengan state dan behavior seperti tertulis dibawah :
+
+State 
+- Merek
+- Warna
+- Gigi
+- Kecepatan
+
+Behavior
+- TambahGigi
+- KurangGigi
+- Mengerem
+
+lakukan print, misalnya
+
+"Mobil tambah gigi, bertambah kecepatan"

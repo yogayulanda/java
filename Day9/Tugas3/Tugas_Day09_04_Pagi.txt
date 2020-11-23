@@ -1,0 +1,53 @@
+Bikin Tabel berdasarkan JSON
+=============================
+{ 
+  "soleh" : {						
+    "fullname"  : "Soleh Said",
+    "address"   : "Jakarta",
+    "status"    : "Active",
+    "grades" : {
+		"physics"  	: 80,
+		"calculus" 	: 70,
+		"biologi"  	: 85
+	  }
+  },
+  "ridwan" : {
+    "fullname"  : "Ridwan Jamil",
+    "address"   : "Bandung",
+    "status"    : "On Leave",
+    "grades" : {
+		"physics"  	: 75,
+		"calculus" 	: 95,
+		"biologi"  	: 65
+	  }
+  },
+  "purwoko" : {
+    "fullname"  : "Ahmad Purwoko",
+    "address"   : "Jogja",
+    "status"    : "Non Active",
+    "grades" : {
+		"physics"  	: 0,
+		"calculus" 	: 0,
+		"biologi"  	: 0
+	  }
+  }
+} 
+
+Program 
+========
+
+Login with Regex -> Tabel User
+
+MENU
+1,2,3. Input, Edit and Delete Data from DB
+	Input
+	-> Langsung Input Data dan tulis ke Database
+	Edit
+	-> List Semua Data dengan (Select *)
+	-> Pilih data yang akan di edit
+	Delete 
+	-> List Semua Data dengan (Select *)
+	-> Pilih data yang akan di delete
+99. Exit - Close all Connection 
+
+

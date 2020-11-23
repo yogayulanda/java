@@ -1,0 +1,23 @@
+Buat File data.txt
+
+1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,1016,1017,1018,1019,1020...1100
+
+C:>java namaProgram data.txt 10
+
+MENU
+1. Buat Simple Thread -> Print ke layar
+2. Buat ThreadPool -> 10 Print ke layar
+3. Buat 
+	- Thread Print di Layar
+	- Thread Baca data.txt, Tulis ke File fileDataAsc.txt -> Ascending
+		1001
+		1002
+		1003
+		...
+	- Thread Baca data.txt, Tulis ke File fileDataDsc.txt -> Descending
+		1100
+		1099
+		1098
+		...
+4. EXIT
+  

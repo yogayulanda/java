@@ -1,0 +1,30 @@
+Buat program java command line yang apabila dijalankan, 1,2 memakai method overloading
+
+1. Menghitung volume kubus
+
+	java CommandLine 1 5
+	
+2. Menghitung volume lingkaran
+
+	java CommandLine 2 12
+	
+3. Print Array sebagai berikut
+
+	- java CommandLine 3 2
+	
+	new arr[2][]
+	arr[0] = new String[4];
+	arr[1] = new String[2];
+	arr[0][] = {satu, dua, tiga, empat}
+
+	-> satu, dua, tiga, empat,
+	-> lima, enam,
+	
+	- java CommandLine 3 3
+	
+	new arr[3][]
+	
+	satu, dua, tiga, empat,
+	lima, enam,
+	tujuh, delapan, sembilan,
+

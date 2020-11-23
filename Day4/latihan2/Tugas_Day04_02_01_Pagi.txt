@@ -1,0 +1,8 @@
+Buat 3 Object mahasiswa dengan state
+- ID
+- Nama
+- Gender
+
+Masukan Object mahasiswa tersebut tulis kedalam file Mahasiswa
+
+Lakukan print state mahasiswa dengan mengakses file Mahasiswa 

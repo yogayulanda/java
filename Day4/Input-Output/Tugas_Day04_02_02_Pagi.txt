@@ -1,0 +1,46 @@
+MENU
+
+1. Buat Object Mahasiswa 
+2. Edit Data Mahasiswa
+3. Remove Object Mahasiswa
+4. Laporan Data Mahasiswa
+5. Tulis Laporan ke File TXT
+6. Exit
+
+Mahasiswa
+-ID
+-Nama
+-Nilai
+
+1-> Create Obj, Masukin ke ArrayList Mahasiswa
+	Input ID -> Gak boleh sama
+	Input Nama
+	Input Nilai
+	
+2-> Input Nama Mahasiswa, Searching ArrayList
+	Input ID Mahasiswa, Searching ArrayList
+	-> Searching by ID
+		1. Nama
+			-> Nama
+		2. Nilai
+			-> Nilai
+
+3-> Masukan ID yang mau di remove
+
+4-> Di sort berdasarkan ID, Nama, Nilai
+	
+	(Contoh Sort by ID)
+	ID			Nama		Nilai
+	1			Tony		90
+	2			Siska		80
+	
+5-> Directory di Input
+	Nama File di Input
+	
+	ID : 1
+	Nama : Tony
+	Nilai : 90
+	
+	ID : 2
+	Nama : Siska
+	Nilai : 80

@@ -1,0 +1,11 @@
+Buat aplikasi java dengan function sebagai berikut
+
+1. Input data-data 
+2. Sortir data-data (Jadiin DAta Sorti)
+3. Search data
+
+Data yang di input : 21,23,26,12,15
+
+Data setelah di sortir : 12,15,21,23,26
+
+Data ditermukan : 23 found at index 3

@@ -1,0 +1,24 @@
+Buat Object Karyawan 
+
+dengan state :
+- Nama
+- Jabatan
+- Gaji
+
+behaviour
+- SetNama
+- GetNama
+- SetJabatan
+- GetJabatan
+- SetGaji
+- GetGaji
+- PrintKaryawan
+
+Buat 3 object
+- Manager dengan gaji 10 juta
+- Supervisor dengan gaji 7 juta
+- Staff dengan gaji 5 juta
+
+Nama : XXX
+Jabatan : Manager
+Gaji : 10000000
